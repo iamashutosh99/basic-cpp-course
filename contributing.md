@@ -1,6 +1,6 @@
 # Contributing
 
-[Basic CPP Course](https://github.com/iamashutosh99/basic-cpp-course/) is [MIT](LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
+[Basic CPP Course](https://github.com/iamashutosh99/basic-cpp-course/) is [Apache 2.0](LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
 
 ## Getting Started
 
